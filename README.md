@@ -21,10 +21,10 @@ A modern Android application for finding and exploring healthy foods.
 - MVVM Architecture
 - REST API integration with Retrofit
 - Dependency Injection using Hilt
-- Local storage with Room and DataStore
+- Local storage with DataStore
 - Dynamic Dark/Light Theme switching
 - Advanced search with filters (diet, dish type, cuisine type)
-- Favorites and search history management
+- search history management
 - Fully responsive and modern UX
 
 ---
