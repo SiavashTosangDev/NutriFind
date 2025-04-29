@@ -29,17 +29,25 @@ A modern Android application for finding and exploring healthy foods.
 
 ---
 
-## 📁 Setup Instructions
+## 🔄 How to Run the Project
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YourUsername/NutriFind.git
+git clone https://github.com/YOUR_USERNAME/NutriFind.git
 ```
 
-2. Open the project in Android Studio.
-3. Sync Gradle and build the project.
-4. Run the application on your emulator or real device.
+2. Open the project in **Android Studio** (Giraffe or higher recommended).
+
+3. Make sure to add your Edamam API credentials in `local.properties`:
+
+```
+BASE_URL = https://api.edamam.com/
+APP_ID = aeff32ad
+APP_KEY = b5a9932ceec96638ae9e30ea128926ba
+```
+
+4. Sync Gradle and Run the app on an emulator or a real device.
 
 ---
 
@@ -49,20 +57,19 @@ git clone https://github.com/YourUsername/NutriFind.git
 <img src="home.jpg" width="300"/>
 
 ### 🔍 Search Feature
-![Search Screen](screen.jpg)
+<img src="search.jpg" width="300"/>
 
 ### 🔍 Filter Feature
-![Filter Screen](filter.jpg)
+<img src="filter.jpg" width="300"/>
 
 ### 🔍 Details Feature
-![Details Screen](details.jpg)
----
+<img src="details.jpg" width="300"/>---
 
 ## 👨‍💼 About Me
 
 Hi, I'm **Siavash Tosang**, an Android Developer passionate about building beautiful and functional mobile apps. 👩‍💻
 
-Let's connect on [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)!
+Let's connect on [LinkedIn](https://www.linkedin.com/in/siavashtosang/)!
 
 ---
 
