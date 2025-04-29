@@ -46,16 +46,16 @@ git clone https://github.com/YourUsername/NutriFind.git
 ## 📸 Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](home.png)
+![Home Screen](home.jpg)
 
 ### 🔍 Search Feature
-![Search Screen](screen.png)
+![Search Screen](screen.jpg)
 
 ### 🔍 Filter Feature
-![Search Screen](filter.png)
+![Filter Screen](filter.jpg)
 
-### 🔍 details Feature
-![Search Screen](details.png)
+### 🔍 Details Feature
+![Details Screen](details.jpg)
 ---
 
 ## 👨‍💼 About Me
